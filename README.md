@@ -4,6 +4,7 @@ GitLogger
  - `git clone https://github.com/keuss/GitLogger`
  - `npm i`
  - `node git-logger.js <author>`
+ - Work with all foldes from parent directory
 
 Use [shelljs](https://github.com/shelljs/shelljs) and some AWK command ;-)
 
