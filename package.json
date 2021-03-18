@@ -1,6 +1,10 @@
 {
     "name": "git-logger",
     "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/keuss/GitLogger.git"
+    },
     "description": "Some JavaScript utils git log",
     "author": "GALLOIS Guillaume",
     "dependencies": {
